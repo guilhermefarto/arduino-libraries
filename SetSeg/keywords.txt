@@ -1,0 +1,16 @@
+SetSeg	KEYWORD2
+
+CATODO	LITERAL1
+ANODO	LITERAL1
+
+SECOND	LITERAL1
+DEFAULT_DELAY	LITERAL1
+
+configurarTipo	KEYWORD2
+limpar	KEYWORD2
+imprimirNumero	KEYWORD2
+contar	KEYWORD2
+imprimirCaractere	KEYWORD2
+imprimirAlfabeto	KEYWORD2
+imprimirTexto	KEYWORD2
+controlarPonto	KEYWORD2
